@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Java_Basic_BaiTap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BaiTap_Java_Basic_Bai2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/BaiTap_Java_Basic_bai1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
